@@ -38,7 +38,7 @@ const Home = () => {
         <TitleCards title={"Blockbuster Movies"} category={"top_rated"} />
         <TitleCards title={"Only on Christiflix"} category={"popular"} />
         <TitleCards title={"Upcoming"} category={"upcoming"} />
-        <TitleCards title={"Top Pics for You"} category={"now_playing"} />
+        <TitleCards title={"Top Picks for You"} category={"now_playing"} />
       </div>
       <Footer />
     </div>
